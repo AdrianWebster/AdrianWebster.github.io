@@ -7,7 +7,7 @@ I am a 23 year old Canadian finishing my undergrad in commerce at uOttawa.
 I love music/books/arts , my family, friends and to create things.
 I hope you enjoy my website & find out more.
 
-Where you can find  and contact me.
+##Where you can find  and contact me.
 - [Github](https://github.com/AdrianWebster)
 - [Twitter](https://twitter.com/a_duub)
 - [Facebook](https://www.facebook.com/adrianwebster678)
