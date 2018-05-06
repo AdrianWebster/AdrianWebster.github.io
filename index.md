@@ -7,7 +7,18 @@ I am a 23 year old Canadian finishing my undergrad in commerce at uOttawa.
 I love music/books/arts , my family, friends and to create things.
 I hope you enjoy my website & find out more.
 
-## __Awebster__
+## __Checkins.co__
+more to come
+
+
+## __poltergeist__
+narrative puzzle game
+
+## __ANN__
+machine learning
+
+## __Archive__
+other old stuff.
 
 ## Not hard to find me
 - [Github](https://github.com/AdrianWebster)
